@@ -24,7 +24,7 @@ description: My personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://patrickfinke.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  patrickfinke
+github_username: patrickfinke
 
 # Build settings
 theme: minima
@@ -33,6 +33,7 @@ plugins:
 
 header_pages:
   - theses.md
+  - talks.md
   - teaching.md
 
 # Exclude from processing.

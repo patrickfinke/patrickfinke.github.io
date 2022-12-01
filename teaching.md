@@ -4,7 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-
 **Now:** Introduction to machine learning (Fall 2022 at Utrecht University)
 
 **Past:**
