@@ -32,9 +32,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - theses.md
-  - talks.md
-  - teaching.md
+  - index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
