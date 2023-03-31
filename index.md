@@ -12,7 +12,7 @@ Before coming to Utrecht, I completed an MSc in Mathematics at [RWTH Aachen Univ
 
 ## Talks
 
-- TBD ([MI PhD Seminar][UU MI PhD Seminar], March 2023 in Utrecht)
+- *"Memorizing Structured Data With Neural Nets: A Randomized Algorithm"* ([MI PhD Seminar][UU MI PhD Seminar], March 2023 in Utrecht)
 - [*"Memorization With Neural Nets: Going Beyond the Worst Case"*](files/2022-12_aim.pdf) ([AIM networking event][AIM], December 2022 in Utrecht)
 
 
