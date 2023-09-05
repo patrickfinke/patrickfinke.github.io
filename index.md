@@ -28,6 +28,7 @@ Before coming to Utrecht, I completed an MSc in Mathematics at [RWTH Aachen Univ
 - Introduction to Machine Learning (Spring 2022 at Utrecht University)
 - Introduction to Probability and Statistics (Fall 2021 at Utrecht University)
 - Analysis (Spring 2021 at Utrecht University)
+- Algorithms and Data Structures (Spring 2016 at RWTH Aachen University)
 
 
 ## Theses
