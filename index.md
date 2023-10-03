@@ -10,6 +10,10 @@ I'm a PhD student at the Mathematical Institute of [Utrecht University][UU] wher
 Before coming to Utrecht, I completed an MSc in Mathematics at [RWTH Aachen University][RWTH].
 
 
+## Publications and Preprints
+
+- S. Dirksen, P. Finke, and M. Genzel. *Memorization with neural nets: going beyond the worst case.* 2023. arXiv: [2310.00327 \[stat.ML\]](https://arxiv.org/abs/2310.00327).
+
 ## Talks
 
 - *"Memorizing Structured Data With Neural Nets: A Randomized Algorithm"* ([MI PhD Seminar][UU MI PhD Seminar], March 2023 in Utrecht)
