@@ -5,9 +5,11 @@
 layout: home
 ---
 
-I'm a PhD student at the Mathematical Institute of [Utrecht University][UU] where I work under the supervision of [Sjoerd Dirksen][Sjoerd Dirksen]. My research is concerned with the mathematical foundations of machine learning and in particular, I'm interested in the properties of (random) neural networks. Currently, I'm working on data-dependent bounds for the memorization capacity of neural nets, see my recent [pitch talk](files/2022-12_aim.pdf).
+I'm a PhD student at the Mathematical Institute of [Utrecht University][UU] where I work under the supervision of [Sjoerd Dirksen][Sjoerd Dirksen]. My research is concerned with the mathematical foundations of machine learning and in particular, I'm interested in the properties of (random) neural networks.
 
 Before coming to Utrecht, I completed an MSc in Mathematics at [RWTH Aachen University][RWTH].
+
+Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Seminar] at Utrecht University.
 
 
 ## Publications and Preprints
