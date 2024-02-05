@@ -25,8 +25,8 @@ Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Semi
 ## Teaching
 
 - Introduction to Probability Theory (planned, Spring 2024 at Utrecht University)
-- Analysis (planned, Spring 2024 at Utrecht University)
-- Introduction to Machine Learning (planned, Fall 2023 at Utrecht University)
+- Analysis (current, Spring 2024 at Utrecht University)
+- Introduction to Machine Learning (Fall 2023 at Utrecht University)
 - Introduction to Probability and Statistics (Spring 2023 at Utrecht University)
 - Seminar Machine Learning (Spring 2023 at Utrecht University)
 - Introduction to Machine Learning (Fall 2022 at Utrecht University)
