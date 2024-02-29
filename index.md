@@ -18,11 +18,11 @@ Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Semi
 
 ## Talks and Posters
 
-- [**Memorization With Neural Nets: Going Beyond the Worst Case**](files/2024-02_memorization_poster.pdf)\
+- **Memorization With Neural Nets: Going Beyond the Worst Case** [\[poster\]](files/2024-02_memorization_poster.pdf)\
 Poster at [Symposium on Sparsity and Singular Structures][Symposium on Sparsity and Singular Structures], February 2024 in Aachen
 - **Memorizing Structured Data With Neural Nets: A Randomized Algorithm**\
 Talk at [MI PhD Seminar][UU MI PhD Seminar], March 2023 in Utrecht
-- [**Memorization With Neural Nets: Going Beyond the Worst Case**](files/2022-12_aim.pdf)\
+- **Memorization With Neural Nets: Going Beyond the Worst Case** [\[slides\]](files/2022-12_aim.pdf)\
 Talk at [AIM networking event][AIM], December 2022 in Utrecht
 
 
