@@ -16,6 +16,7 @@ Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Semi
 
 - S. Dirksen, P. Finke, and M. Genzel. **Memorization with neural nets: going beyond the worst case.** 2023. arXiv: [2310.00327 \[stat.ML\]](https://arxiv.org/abs/2310.00327).
 
+
 ## Talks and Posters
 
 - **Memorization With Neural Nets: Going Beyond the Worst Case** [\[poster\]](files/2024-02_memorization_poster.pdf)\
@@ -26,27 +27,27 @@ Talk at [MI PhD Seminar][UU MI PhD Seminar], March 2023 in Utrecht
 Talk at [AIM networking event][AIM], December 2022 in Utrecht
 
 
-## Teaching
-
-- **Introduction to Probability Theory** (planned, Spring 2024 at Utrecht University)
-- **Analysis** (current, Spring 2024 at Utrecht University)
-- **Introduction to Machine Learning** (Fall 2023 at Utrecht University)
-- **Introduction to Probability and Statistics** (Spring 2023 at Utrecht University)
-- **Seminar Machine Learning** (Spring 2023 at Utrecht University)
-- **Introduction to Machine Learning** (Fall 2022 at Utrecht University)
-- **Programming for Mathematics** (Spring 2022 at Utrecht University)
-- **Introduction to Machine Learning** (Spring 2022 at Utrecht University)
-- **Introduction to Probability and Statistics** (Fall 2021 at Utrecht University)
-- **Analysis** (Spring 2021 at Utrecht University)
-- **Algorithms and Data Structures** (Spring 2016 at RWTH Aachen University)
-
-
 ## Theses
 
 - **Compressive Sensing and Stable Embeddings with Structured Random Matrices under Generative Priors**\
-Master's Thesis supervised by [Holger Rauhut][Holger Rauhut].
+Master's Thesis supervised by [Holger Rauhut][Holger Rauhut] at RWTH Aachen University
 - **Integral Deferred Correction Methods for Singularly Perturbed Problems**\
-Bachelor's Thesis supervised by [Sebastian Noelle][Sebastian Noelle].
+Bachelor's Thesis supervised by [Sebastian Noelle][Sebastian Noelle] at RWTH Aachen University
+
+
+## Teaching
+
+- **Introduction to Probability Theory**, Spring 2024 at Utrecht University (planned)
+- **Analysis**, Spring 2024 at Utrecht University (current)
+- **Introduction to Machine Learning**, Fall 2023 at Utrecht University
+- **Introduction to Probability and Statistics**, Spring 2023 at Utrecht University
+- **Seminar Machine Learning**, Spring 2023 at Utrecht University
+- **Introduction to Machine Learning**, Fall 2022 at Utrecht University
+- **Programming for Mathematics**, Spring 2022 at Utrecht University
+- **Introduction to Machine Learning**, Spring 2022 at Utrecht University
+- **Introduction to Probability and Statistics**, Fall 2021 at Utrecht University
+- **Analysis**, Spring 2021 at Utrecht University
+- **Algorithms and Data Structures**, Spring 2016 at RWTH Aachen University
 
 
 
