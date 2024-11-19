@@ -14,7 +14,8 @@ Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Semi
 
 ## Publications
 
-- S. Dirksen, P. Finke, and M. Genzel. **Memorization With Neural Nets: Going Beyond the Worst Case.** *Journal of Machine Learning Research*, 25(347):1–38, 2024. [\[paper\]](https://jmlr.org/papers/v25/23-1376.html)
+- **Memorization With Neural Nets: Going Beyond the Worst Case** [\[paper\]](https://jmlr.org/papers/v25/23-1376.html) [\[code\]](https://github.com/patrickfinke/memo)\
+with S. Dirksen and M. Genzel, in *Journal of Machine Learning Research*, 25(347):1–38, 2024
 
 
 ## Talks and Posters
