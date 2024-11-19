@@ -12,7 +12,7 @@ Before coming to Utrecht, I completed an MSc in Mathematics at [RWTH Aachen Univ
 Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Seminar] at Utrecht University.
 
 
-## Publications and Preprints
+## Publications
 
 - S. Dirksen, P. Finke, and M. Genzel. **Memorization With Neural Nets: Going Beyond the Worst Case.** *Journal of Machine Learning Research*, 25(347):1–38, 2024. [\[paper\]](https://jmlr.org/papers/v25/23-1376.html)
 
