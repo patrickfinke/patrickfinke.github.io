@@ -37,7 +37,7 @@ Bachelor's Thesis supervised by [Sebastian Noelle][Sebastian Noelle] at RWTH Aac
 
 ## Teaching
 
-Apart from supervising exercise groups, I designed practical exam and homework exercises for *Introduction to Machine Learning* and supervised students one-on-one in the *Seminar on Machine Learning*.
+As a teaching assistant I supervised exercise groups of students in the courses listed below. Apart from this, I designed practical exam and homework exercises for *Introduction to Machine Learning* and supervised students one-on-one in the *Seminar on Machine Learning*. I assisted in all of the following courses:
 
 - **Introduction to Probability Theory**\
 Spring 2024, Spring 2023 and Fall 2021 at Utrecht University
