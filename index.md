@@ -37,17 +37,20 @@ Bachelor's Thesis supervised by [Sebastian Noelle][Sebastian Noelle] at RWTH Aac
 
 ## Teaching
 
-- **Introduction to Probability Theory**, Spring 2024 at Utrecht University (planned)
-- **Analysis**, Spring 2024 at Utrecht University (current)
-- **Introduction to Machine Learning**, Fall 2023 at Utrecht University
-- **Introduction to Probability and Statistics**, Spring 2023 at Utrecht University
-- **Seminar Machine Learning**, Spring 2023 at Utrecht University
-- **Introduction to Machine Learning**, Fall 2022 at Utrecht University
-- **Programming for Mathematics**, Spring 2022 at Utrecht University
-- **Introduction to Machine Learning**, Spring 2022 at Utrecht University
-- **Introduction to Probability and Statistics**, Fall 2021 at Utrecht University
-- **Analysis**, Spring 2021 at Utrecht University
-- **Algorithms and Data Structures**, Spring 2016 at RWTH Aachen University
+Apart from supervising exercise groups, I designed practical exam and homework exercises for *Introduction to Machine Learning* and supervised students one-on-one in the *Seminar on Machine Learning*.
+
+- **Introduction to Probability Theory**\
+Spring 2024, Spring 2023 and Fall 2021 at Utrecht University
+- **Introduction to Machine Learning**\
+Fall 2023, Fall 2022 and Spring 2022 at Utrecht University
+- **Seminar on Machine Learning**\
+Spring 2023 at Utrecht University
+- **Programming for Mathematics**\
+Spring 2022 at Utrecht University
+- **Analysis**\
+Spring 2024 and Spring 2021 at Utrecht University
+- **Algorithms and Data Structures**\
+Spring 2016 at RWTH Aachen University
 
 
 
