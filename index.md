@@ -5,11 +5,11 @@
 layout: home
 ---
 
-I'm a PhD student at the Mathematical Institute of [Utrecht University][UU] where I work under the supervision of [Sjoerd Dirksen][Sjoerd Dirksen]. My research is concerned with the mathematical foundations of machine learning and in particular, I'm interested in the properties of (random) neural networks.
+I'm a fourth-year PhD student at the Mathematical Institute of [Utrecht University][UU], where my supervisor is [Sjoerd Dirksen][Sjoerd Dirksen]. My research is on the theory of machine learning. Specifically, I'm interested in the memorization capacity of neural networks and the properties of random neural networks. I'm always interested in computational aspects, too.
 
-Before coming to Utrecht, I completed an MSc in Mathematics at [RWTH Aachen University][RWTH].
+Before this, I studied mathematics at [RWTH Aachen University][RWTH], where I completed my master's thesis under the supervision of [Holger Rauhut][Holger Rauhut]. Since October 2023, I have sometimes helped to organize the [MI PhD Seminar][UU MI PhD Seminar] at Utrecht University.
 
-Since October 2023 I have been co-organizing the [MI PhD Seminar][UU MI PhD Seminar] at Utrecht University.
+In my free time, I enjoy building computers, most recently my home server. Right now, I'm learning about home networking and containerization and I'm thinking about exploring 3D printing soon.
 
 
 ## Publications
