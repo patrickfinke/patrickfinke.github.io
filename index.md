@@ -16,6 +16,8 @@ In my free time, I enjoy building computers, most recently my home server. Right
 
 - **Memorization With Neural Nets: Going Beyond the Worst Case** [\[paper\]](https://jmlr.org/papers/v25/23-1376.html) [\[code\]](https://github.com/patrickfinke/memo)\
 with S. Dirksen and M. Genzel, in *Journal of Machine Learning Research*, 25(347):1–38, 2024
+- **Near-optimal estimates for the $\ell^p$-Lipschitz constants of deep random ReLU neural networks** [\[preprint\]](https://arxiv.org/abs/2506.19695)\
+with S. Dirksen, P. Geuchen, D. Stöger and F. Voigtlaender, preprint arXiv:2506.19695 \[stat.ML\], 2025
 
 
 ## Talks and Posters
