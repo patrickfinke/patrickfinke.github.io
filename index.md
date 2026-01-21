@@ -21,7 +21,7 @@ with S. Dirksen, P. Geuchen, D. Stöger and F. Voigtlaender, preprint arXiv:2506
 ## Talks and Posters
 
 - **Memorization capacity and robustness of neural networks: PhD defense layman's talk** [\[slides\]](files/2026_01-phd_layman.pdf)\
-Talk at [my PhD defense][https://www.uu.nl/en/events/phd-defence-memorization-capacity-and-robustness-of-neural-networks], January 2026 in Utrecht
+Talk at [my PhD defense](https://www.uu.nl/en/events/phd-defence-memorization-capacity-and-robustness-of-neural-networks), January 2026 in Utrecht
 - **Memorization With Neural Nets: Going Beyond the Worst Case** [\[poster\]](files/2024-02_memorization_poster.pdf)\
 Poster at [Symposium on Sparsity and Singular Structures][Symposium on Sparsity and Singular Structures], February 2024 in Aachen
 - **Memorizing Structured Data With Neural Nets: A Randomized Algorithm**\
