@@ -5,11 +5,9 @@
 layout: home
 ---
 
-I'm a fourth-year PhD student at the Mathematical Institute of [Utrecht University][UU], where my supervisor is [Sjoerd Dirksen][Sjoerd Dirksen]. My research is on the theory of machine learning. Specifically, I'm interested in the memorization capacity of neural networks and the properties of random neural networks. I'm always interested in computational aspects, too.
+I recently completed my PhD at the Mathematical Institute of [Utrecht University][UU] under the supervision of [Sjoerd Dirksen][Sjoerd Dirksen]. My research was on the theory of machine learning, specifically the memorization capacity of neural networks and robustness properties of random neural networks. Before this, I studied mathematics at [RWTH Aachen University][RWTH], where I completed my master's thesis under the supervision of [Holger Rauhut][Holger Rauhut].
 
-Before this, I studied mathematics at [RWTH Aachen University][RWTH], where I completed my master's thesis under the supervision of [Holger Rauhut][Holger Rauhut]. Since October 2023, I have sometimes helped to organize the [MI PhD Seminar][UU MI PhD Seminar] at Utrecht University.
-
-In my free time, I enjoy building computers, most recently my home server. Right now, I'm learning about home networking and containerization and I'm thinking about exploring 3D printing soon.
+In my free time, I enjoy running and building computers, most recently i build my home server. Right now, I'm learning about home networking and containerization and I'm thinking about exploring 3D printing soon.
 
 
 ## Publications
@@ -22,6 +20,8 @@ with S. Dirksen, P. Geuchen, D. Stöger and F. Voigtlaender, preprint arXiv:2506
 
 ## Talks and Posters
 
+- **Memorization capacity and robustness of neural networks: PhD defense layman's talk** [\[slides\]](files/2026_01-phd_layman.pdf)\
+Talk at [my PhD defense][https://www.uu.nl/en/events/phd-defence-memorization-capacity-and-robustness-of-neural-networks], January 2026 in Utrecht
 - **Memorization With Neural Nets: Going Beyond the Worst Case** [\[poster\]](files/2024-02_memorization_poster.pdf)\
 Poster at [Symposium on Sparsity and Singular Structures][Symposium on Sparsity and Singular Structures], February 2024 in Aachen
 - **Memorizing Structured Data With Neural Nets: A Randomized Algorithm**\
@@ -32,6 +32,8 @@ Talk at [AIM networking event][AIM], December 2022 in Utrecht
 
 ## Theses
 
+- **Memorization capacity and robustness of neural networks** [\[thesis\]](https://research-portal.uu.nl/en/publications/memorization-capacity-and-robustness-of-neural-networks/)\
+PhD Thesis supervised by [Sjoerd Dirksen][Sjoerd Dirksen] at RWTH Aachen University
 - **Compressive Sensing and Stable Embeddings with Structured Random Matrices under Generative Priors**\
 Master's Thesis supervised by [Holger Rauhut][Holger Rauhut] at RWTH Aachen University
 - **Integral Deferred Correction Methods for Singularly Perturbed Problems**\
