@@ -12,8 +12,6 @@ In my free time, I enjoy running and building computers, most recently i build m
 
 ## Publications and Preprints
 
-https://github.com/patrickfinke/invariant-memo
-
 - **Memorization Capacity of Invariant Convolutional Neural Nets** [\[preprint\]](https://arxiv.org/abs/2610.38938) [\[code\]](https://github.com/patrickfinke/invariant-memo)\
 with S. Dirksen and P. Geuchen, preprint arXiv:2610.38938 \[stat.ML\], 2026
 - **Near-optimal estimates for the $\ell^p$-Lipschitz constants of deep random ReLU neural networks** [\[preprint\]](https://arxiv.org/abs/2506.19695)\
