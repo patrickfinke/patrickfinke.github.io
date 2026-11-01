@@ -35,7 +35,7 @@ Talk at [AIM networking event][AIM], December 2022 in Utrecht
 ## Theses
 
 - **Memorization capacity and robustness of neural networks** [\[thesis\]](https://research-portal.uu.nl/en/publications/memorization-capacity-and-robustness-of-neural-networks/)\
-PhD Thesis supervised by [Sjoerd Dirksen][Sjoerd Dirksen] at RWTH Aachen University
+PhD Thesis supervised by [Sjoerd Dirksen][Sjoerd Dirksen] at Utrecht University
 - **Compressive Sensing and Stable Embeddings with Structured Random Matrices under Generative Priors**\
 Master's Thesis supervised by [Holger Rauhut][Holger Rauhut] at RWTH Aachen University
 - **Integral Deferred Correction Methods for Singularly Perturbed Problems**\
